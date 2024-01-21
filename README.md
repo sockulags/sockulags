@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-#### About me**
+#### About me
 In January 2023, I kicked off my journey into development with an engineering degree in industrial economics. Before making the leap, I balanced life as an elite athlete and personal trainer. It quickly became clear that coding is my calling. I'm eager to learn and proficient in both C# and JavaScript. Looking ahead, I'm open to opportunities in backend development using C#.NET or frontend work with React. If you have a fitting role, I'm all ears. Let's chat!
 
 
