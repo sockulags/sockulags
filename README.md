@@ -16,7 +16,7 @@ Hi there 👋
 
 ### Lexicon Frontend/React 
 Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. Down below is all the assignement from the course.
-- #### JavaScript  
+#### JavaScript  
  - [Exercise with classes](https://github.com/sockulags/Lexicon_JS_Skolan_med_klasser)
  - [Exercise with objects](https://github.com/sockulags/Lexicon_JS_Skolan_med_objekt)
  - [Calculator](https://sockulags.github.io/Lexicon_JS_Calculator/) and the [Code](https://github.com/sockulags/Lexicon_JS_Calculator)
@@ -26,7 +26,7 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
  - [Simple Calculator](https://github.com/sockulags/Lexicon_JS_Simple-calc)
  - [Variables and DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
  - [Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
-- ### HTML/CSS   
+### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
  - [Poster Shop](https://github.com/sockulags/poster-shop)
