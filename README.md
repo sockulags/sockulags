@@ -1,12 +1,11 @@
-<details><summary>Hi there 👋</summary>
+Hi there 👋
 
 # Welcome to sockulags's GitHub Profile!
 
 ## Overview
 
-
 <details><summary> 
-  ### Lexicon Frontend/React
+ <h3> Lexicon Frontend/React </h3>
 </summary>
   
 <details><summary>
@@ -79,4 +78,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</details>
