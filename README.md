@@ -5,8 +5,14 @@
 ## Overview
 
 
-<details><summary> ### Lexicon Frontend/React 👋</summary>
-<details><summary> #### JavaScript </summary>
+<details><summary> 
+  ### Lexicon Frontend/React
+</summary>
+  
+<details><summary>
+#### JavaScript
+</summary>
+  
 - [Lexicon_JS_Skolan_med_klasser](https://github.com/sockulags/Lexicon_JS_Skolan_med_klasser)
 - [Lexicon_JS_Skolan_med_objekt](https://github.com/sockulags/Lexicon_JS_Skolan_med_objekt)
 - [Speed_Typing](https://github.com/sockulags/Speed_Typing)
@@ -16,18 +22,26 @@
 - [Lexicon_JS_Arrays_and_Loops](https://github.com/sockulags/Lexicon_JS_Arrays_and_Loops) 
 - [Lexicon_JS_Simple-calc](https://github.com/sockulags/Lexicon_JS_Simple-calc)
 - [Lexicon_JS_Variables_and_DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
-- [Lexicon_JS_Arrays](https://github.com/sockulags/Lexicon_JS_Arrays) 
+- [Lexicon_JS_Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
+  
 </details>
 
-<details><summary> #### HTML/CSS </summary>
+<details><summary> 
+  
+  #### HTML/CSS 
+  </summary>
+  
 - [insurance_project](https://github.com/sockulags/insurance_project)
 - [Planned_planthood](https://github.com/sockulags/Planned_planthood)
 - [poster-shop](https://github.com/sockulags/poster-shop)
 - [grid_lesson](https://github.com/sockulags/grid_lesson)
 - [lexicon-pricing_tables](https://github.com/sockulags/lexicon-pricing_tables)
 - [html-delkurs](https://github.com/sockulags/html-delkurs)
+  
 </details>
+
 </details>
+
 ### Projects
 
 - [Code-Cave](https://github.com/sockulags/Code-Cave) - C#, SQL Server, TinyMCE, Entity Framework Core, ASP.NET Core 
