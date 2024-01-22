@@ -7,10 +7,10 @@ In January 2023, I kicked off my journey into development with an engineering de
 
 
 #### Repositories
-My bigger projects is highlighted directly under Projects below. 
-**Code Cave** is a blog where it is simple to make new post including direct formatting for code snippets
-**Base Programming** is a re-used name from when I used to write training programs. It is a library for exercises, for when you need inspiration.
-**Plånkan App** Budget tracker using graph for nice visualisation. Has a export function where you can get you income and expense history, also in beautiful graphs.
+My bigger projects is highlighted directly under Projects below.\ 
+**Code Cave** is a blog where it is simple to make new post including direct formatting for code snippets\
+**Base Programming** is a re-used name from when I used to write training programs. It is a library for exercises, for when you need inspiration.\
+**Plånkan App** Budget tracker using graph for nice visualisation. Has a export function where you can get you income and expense history, also in beautiful graphs.\
 **Klossus Kolossus** A Tetris-game made in Unity and as a final projet during my C#.NET bootcamp in the beginning of 2023. The unique thing about it that it has a co-op mode, where you play tetris with a friend, both trying to clear to rows together.
 
 #### Projects
@@ -37,6 +37,7 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
  - [Simple Calculator](https://github.com/sockulags/Lexicon_JS_Simple-calc)
  - [Variables and DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
  - [Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
+ - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
@@ -48,8 +49,4 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
 #### Learning-projects
 - [TournamentTracker - IamTimCorey](https://github.com/sockulags/TournamentTracker) - C# 
 - [Machine Learning - freeCodeCamp](https://github.com/sockulags/Machine_Learning_Course) - , JavaScript
-
-#### Misc
-
-- [git-basics](https://github.com/sockulags/git-basics) - Private (Updated on Nov 28, 2023)
 
