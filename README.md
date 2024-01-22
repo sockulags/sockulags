@@ -21,8 +21,8 @@ My bigger projects is highlighted directly under Projects below\
  
 #### Mini-projects/Other
 - [Advent of Code 2023](https://github.com/sockulags/Advent_of_Code_2023) - C#
-- [Speed Typing](https://sockulags.github.io/Speed_Typing/) and the [Code](https://github.com/sockulags/Speed_Typing) - JavaScript
 - [Code Wars](https://github.com/sockulags/Code_Wars) rank: ![CodeWars](https://www.codewars.com/users/sockulags/badges/micro)
+- [Speed Typing](https://sockulags.github.io/Speed_Typing/) and the [Code](https://github.com/sockulags/Speed_Typing) - JavaScript
 
 
 #### Lexicon Frontend/React 
