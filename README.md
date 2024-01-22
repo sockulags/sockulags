@@ -15,14 +15,14 @@ My bigger projects is highlighted directly under Projects below\
 
 #### Projects
 - [Code-Cave](https://github.com/sockulags/Code-Cave) - C#, SQL Server, TinyMCE, Entity Framework Core, ASP.NET Core 
-- [Base Programming](https://sockulags.github.io/Base-programming) press Home when you enter, need to fix routing and the [Code](https://github.com/sockulags/Base-programming) - React, JSX, MaterialUI, Rapid-API  
+- [Base Programming](https://github.com/sockulags/Base-programming) - React, JSX, MaterialUI, Rapid-API  
 - [plankan-app](https://github.com/sockulags/plankan-app) - C#, HTML, SQL Server, Syncfusion, EF Core, ASP.NET Core
 - [Klossus-Kolossus](https://github.com/JeanLussagnet/Klossus-Kolossus) - Group Project in C#, Unity. Im responsible for the game logic and highscore list.
  
 #### Mini-projects/Other
 - [Advent of Code 2023](https://github.com/sockulags/Advent_of_Code_2023) - C#
 - [Code Wars](https://github.com/sockulags/Code_Wars) rank: ![CodeWars](https://www.codewars.com/users/sockulags/badges/micro)
-- [Speed Typing](https://sockulags.github.io/Speed_Typing/) and the [Code](https://github.com/sockulags/Speed_Typing) - JavaScript
+- [Speed Typing](https://github.com/sockulags/Speed_Typing) - JavaScript
 
 
 #### Lexicon Frontend/React 
@@ -30,7 +30,7 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
 #### JavaScript  
  - [Exercise with classes](https://github.com/sockulags/Lexicon_JS_Skolan_med_klasser)
  - [Exercise with objects](https://github.com/sockulags/Lexicon_JS_Skolan_med_objekt)
- - [Calculator](https://sockulags.github.io/Lexicon_JS_Calculator/) and the [Code](https://github.com/sockulags/Lexicon_JS_Calculator)
+ - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
  - [The_Sauna](https://github.com/sockulags/Lexicon_JS_The_Sauna)
  - [Functions](https://github.com/sockulags/Lexicon_JS_Functions)
  - [Arrays and Loops](https://github.com/sockulags/Lexicon_JS_Arrays_and_Loops) 
