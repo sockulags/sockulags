@@ -7,7 +7,7 @@ In January 2023, I kicked off my journey into development with an engineering de
 
 
 #### Repositories
-My bigger projects is highlighted directly under Projects below.\ 
+My bigger projects is highlighted directly under Projects below.
 **Code Cave** is a blog where it is simple to make new post including direct formatting for code snippets\
 **Base Programming** is a re-used name from when I used to write training programs. It is a library for exercises, for when you need inspiration.\
 **Plånkan App** Budget tracker using graph for nice visualisation. Has a export function where you can get you income and expense history, also in beautiful graphs.\
