@@ -38,6 +38,7 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
  - [Variables and DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
  - [Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
  - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
+ - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
