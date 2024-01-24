@@ -41,6 +41,7 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
  - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
  - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
  - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
+ - [Account Registration](https://sockulags.github.io/Lexicon_JS_Account_Registration/)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
