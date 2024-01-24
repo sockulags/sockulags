@@ -29,19 +29,19 @@ My bigger projects is highlighted directly under Projects below\
 ### Lexicon Frontend/React 
 Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. Down below is all the assignement from the course.
 #### JavaScript  
+ - [Account Registration](https://github.com/sockulags/Lexicon_JS_Account_Registration)
+ - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
+ - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
+ - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
+ - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
  - [Exercise with classes](https://github.com/sockulags/Lexicon_JS_Skolan_med_klasser)
  - [Exercise with objects](https://github.com/sockulags/Lexicon_JS_Skolan_med_objekt)
- - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
  - [The_Sauna](https://github.com/sockulags/Lexicon_JS_The_Sauna)
  - [Functions](https://github.com/sockulags/Lexicon_JS_Functions)
  - [Arrays and Loops](https://github.com/sockulags/Lexicon_JS_Arrays_and_Loops) 
  - [Simple Calculator](https://github.com/sockulags/Lexicon_JS_Simple-calc)
  - [Variables and DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
  - [Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
- - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
- - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
- - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
- - [Account Registration](https://github.com/sockulags/Lexicon_JS_Account_Registration)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
