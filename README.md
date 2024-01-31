@@ -28,9 +28,11 @@ My bigger projects is highlighted directly under Projects below\
 
 ### Lexicon Frontend/React 
 Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. Down below is all the assignement from the course.
-#### JavaScript  
+#### Mini-applications JS/HTML/CSS
+ - [MusicPlayer](https://github.com/sockulags/Lexicon_JS_Musicplayer)
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
- - [Account Registration](https://github.com/sockulags/Lexicon_JS_Account_Registration)
+ - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
+#### JavaScript  
  - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
  - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
