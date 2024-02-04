@@ -30,6 +30,7 @@ My bigger projects is highlighted directly under Projects below\
 Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. Down below is all the assignement from the course.
 #### Mini-applications JS/HTML/CSS
  - [MusicPlayer aka TuneToad](https://github.com/sockulags/Lexicon_JS_Musicplayer)
+ - [Hangman](https://github.com/sockulags/Lexicon_Hangman/)
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
  - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
 #### JavaScript  
