@@ -34,7 +34,8 @@ Attending a course on HTML, CSS, JavaScript and React from nov 2023 - apr 2024. 
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
  - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
 #### API Assignments
- - [API Bootcamp](https://github.com/sockulags/Lexicon_API_Bootcamp)
+- [Starwars Catalog](https://github.com/sockulags/Starwars_Catalog)
+- [API Bootcamp](https://github.com/sockulags/Lexicon_API_Bootcamp)
 #### JavaScript  
  - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
