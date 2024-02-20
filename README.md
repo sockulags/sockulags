@@ -10,7 +10,7 @@ When I started this journey it quickly became clear that coding is my calling. I
 - [Plånkan App](https://github.com/sockulags/plankan-app) - C#, HTML, SQL Server, Syncfusion, EF Core, ASP.NET Core
 - [Klossus-Kolossus](https://github.com/JeanLussagnet/Klossus-Kolossus) - Group Project in C#, Unity. Im responsible for the game logic and highscore list.
  
-### Mini-projects/Other
+### Other/Just for fun
 - [Advent of Code 2023](https://github.com/sockulags/Advent_of_Code_2023) - C#
 - [Code Wars](https://github.com/sockulags/Code_Wars) rank: ![CodeWars](https://www.codewars.com/users/sockulags/badges/micro)
 - [Speed Typing](https://github.com/sockulags/Speed_Typing) - JavaScript
