@@ -18,6 +18,7 @@ When I started this journey it quickly became clear that coding is my calling. I
 
 ### Lexicon Frontend/React 
 #### React
+- [Mediaplayer](https://github.com/sockulags/Lexicon_Mediaplayer)
 - [Cafe Retro](https://github.com/sockulags/Lexicon_Cafe_Retro)
 #### Mini-applications JS/HTML/CSS
  - [MusicPlayer aka TuneToad](https://github.com/sockulags/Lexicon_JS_Musicplayer)
