@@ -20,21 +20,16 @@ When I started this journey it quickly became clear that coding is my calling. I
 #### React
 - [Todo-List](https://github.com/sockulags/Lexicon_TS_TodoList)
 - [Movie Cards](https://github.com/sockulags/Lexicon_MovieCards/)
-- [Mediaplayer](https://github.com/sockulags/Lexicon_Mediaplayer)
-- [Cafe Retro](https://github.com/sockulags/Lexicon_Cafe_Retro)
 #### Mini-applications JS/HTML/CSS
  - [MusicPlayer aka TuneToad](https://github.com/sockulags/Lexicon_JS_Musicplayer)
  - [Hangman](https://github.com/sockulags/Lexicon_Hangman/)
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
  - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
-#### JavaScript  
- - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
  - [Poster Shop](https://github.com/sockulags/poster-shop)
-
 ### Learning-projects
 - [TournamentTracker - IamTimCorey](https://github.com/sockulags/TournamentTracker) - C# 
 - [Machine Learning - freeCodeCamp](https://github.com/sockulags/Machine_Learning_Course) - , JavaScript
