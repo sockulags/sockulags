@@ -16,7 +16,7 @@ When I started this journey it quickly became clear that coding is my calling. I
 - [Speed Typing](https://github.com/sockulags/Speed_Typing) - JavaScript
 
 
-### Lexicon Frontend/React 
+### Lexicon Frontend/React - a few assignments
 #### React
 - [Todo-List](https://github.com/sockulags/Lexicon_TS_TodoList)
 - [Movie Cards](https://github.com/sockulags/Lexicon_MovieCards/)
@@ -30,23 +30,10 @@ When I started this journey it quickly became clear that coding is my calling. I
 #### JavaScript  
  - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
- - [DOM Manipulation 1 and 2](https://github.com/sockulags/Lexicon_JS_DOM_Manipulation)
- - [BucketList](https://github.com/sockulags/Lexicon_JS_BucketList)
- - [Exercise with classes](https://github.com/sockulags/Lexicon_JS_Skolan_med_klasser)
- - [Exercise with objects](https://github.com/sockulags/Lexicon_JS_Skolan_med_objekt)
- - [The_Sauna](https://github.com/sockulags/Lexicon_JS_The_Sauna)
- - [Functions](https://github.com/sockulags/Lexicon_JS_Functions)
- - [Arrays and Loops](https://github.com/sockulags/Lexicon_JS_Arrays_and_Loops) 
- - [Simple Calculator](https://github.com/sockulags/Lexicon_JS_Simple-calc)
- - [Variables and DataTypes](https://github.com/sockulags/Lexicon_JS_Variables_and_DataTypes) 
- - [Arrays](https://github.com/sockulags/Lexicon_JS_Arrays)
 #### HTML/CSS   
  - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
  - [Insurance Project](https://github.com/sockulags/insurance_project)
  - [Poster Shop](https://github.com/sockulags/poster-shop)
- - [Grid Lesson](https://github.com/sockulags/grid_lesson)
- - [Pricing Tables](https://github.com/sockulags/lexicon-pricing_tables)
- - [A few small assignments](https://github.com/sockulags/html-delkurs)
 
 ### Learning-projects
 - [TournamentTracker - IamTimCorey](https://github.com/sockulags/TournamentTracker) - C# 
