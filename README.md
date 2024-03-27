@@ -27,10 +27,6 @@ When I started this journey it quickly became clear that coding is my calling. I
  - [Hangman](https://github.com/sockulags/Lexicon_Hangman/)
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
  - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
-#### API Assignments
-- [Punk API](https://github.com/sockulags/Punk_API)
-- [Starwars Catalog](https://github.com/sockulags/Starwars_Catalog)
-- [API Bootcamp](https://github.com/sockulags/Lexicon_API_Bootcamp)
 #### JavaScript  
  - [Sinus Minishop](https://github.com/sockulags/Lexicon_JS_sinus-minishop)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
