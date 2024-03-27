@@ -15,7 +15,6 @@ When I started this journey it quickly became clear that coding is my calling. I
 - [Code Wars](https://github.com/sockulags/Code_Wars) rank: ![CodeWars](https://www.codewars.com/users/sockulags/badges/micro)
 - [Speed Typing](https://github.com/sockulags/Speed_Typing) - JavaScript
 
-
 ### Lexicon Frontend/React - a few assignments
 #### React
 - [Todo-List](https://github.com/sockulags/Lexicon_TS_TodoList)
@@ -26,11 +25,4 @@ When I started this journey it quickly became clear that coding is my calling. I
  - [Todo-list](https://github.com/sockulags/Lexicon_JS_Todo-list)
  - [Account Registration Form](https://github.com/sockulags/Lexicon_JS_Account_Registration)
  - [Calculator](https://github.com/sockulags/Lexicon_JS_Calculator)
-#### HTML/CSS   
- - [Planned Planthood](https://github.com/sockulags/Planned_planthood)
- - [Insurance Project](https://github.com/sockulags/insurance_project)
- - [Poster Shop](https://github.com/sockulags/poster-shop)
-### Learning-projects
-- [TournamentTracker - IamTimCorey](https://github.com/sockulags/TournamentTracker) - C# 
-- [Machine Learning - freeCodeCamp](https://github.com/sockulags/Machine_Learning_Course) - , JavaScript
 
