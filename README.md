@@ -8,7 +8,8 @@ When I started this journey it quickly became clear that coding is my calling. I
 - [Code-Cave](https://github.com/sockulags/Code-Cave) - C#, SQL Server, TinyMCE, Entity Framework Core, ASP.NET Core 
 - [Base Programming](https://github.com/sockulags/Base-programming) - React, JSX, MaterialUI, Rapid-API  
 - [Plånkan App](https://github.com/sockulags/plankan-app) - C#, HTML, SQL Server, Syncfusion, EF Core, ASP.NET Core
-- [Klossus-Kolossus](https://github.com/JeanLussagnet/Klossus-Kolossus) - Group Project in C#, Unity. Im responsible for the game logic and highscore list.
+- [Klossus-Kolossus](https://github.com/JeanLussagnet/Klossus-Kolossus) - [Live Demo](https://sockulags.github.io/Klossus_kolussus_demo/) - Group Project in C#, Unity.
+- [Sokoban](https://github.com/sockulags/Sokoban_React_TS) - Group Project in React.
  
 ### Other/Just for fun
 - [Advent of Code 2023](https://github.com/sockulags/Advent_of_Code_2023) - C#
